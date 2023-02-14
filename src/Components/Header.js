@@ -95,7 +95,7 @@ const Header = () => {
 				</Link>
 				<a
 					className="header__icon"
-					href="https://github.com/FirdeusGj"
+					href="https://github.com/FirdeusGj/Hulu-2.0-React/tree/master"
 					target="_blank"
 				>
 					<IconButton>
